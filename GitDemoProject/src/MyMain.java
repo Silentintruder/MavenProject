@@ -5,6 +5,7 @@ public class MyMain {
 		// TODO Auto-generated method stub
 		
 		System.out.println("This is My Main class");
+		System.out.println("checking commit 2");
 
 	}
 
